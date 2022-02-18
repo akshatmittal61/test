@@ -2,4 +2,4 @@ Introduction
 
 Intro to git
 
-this is page 1 added now
+this is page 1 
